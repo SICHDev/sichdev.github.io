@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
   "version" : 1.3,
   "url" : "https://sichdev.github.io/nusaputera_firmware_1.3.bin"
+=======
+  "version" : 1.2,
+  "url" : "https://sichdev.github.io/nusaputera_firmware_1.2.bin"
+>>>>>>> 3f09a50c5333aa9a77971f82491a1fb6737f1876
 }
