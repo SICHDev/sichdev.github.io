@@ -1,6 +1,6 @@
 {
-  "version" : 3.5,
-  "url" : "https://sichdev.github.io/nusaputera/nusaputera_presensi_firmware_3.5.bin",
+  "version" : 4.0,
+  "url" : "https://sichdev.github.io/smk_nusaputera1/presensi_firmware_4.0.bin",
   "version_kantin" : 1.0,
   "url_kantin" : "https://sichdev.github.io/nusaputera_kantin_firmware_1.0.bin"
 }
